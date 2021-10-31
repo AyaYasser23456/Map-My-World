@@ -1,0 +1,8 @@
+prefix=/home/workspace/catkin_ws/install
+
+Name: aya_pkg
+Description: Description of aya_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
